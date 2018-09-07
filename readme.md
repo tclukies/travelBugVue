@@ -30,7 +30,7 @@ Vue.js, Bootstrap-Vue, Express, Knex, CORS, postgreSQL
 
 ## Travel Bug Front End Deployed Link
 
-https://travel-bug-67eb1.firebaseapp.com/
+https://travelbug-b1270.firebaseapp.com/
 
 ## Travel Bug Back End Deployed Links
 
