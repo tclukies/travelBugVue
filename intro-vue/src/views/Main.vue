@@ -120,13 +120,13 @@
 </script>
 
 <style>
-    body,
-    html {
+  body {
+        background-image: url('https://i.gocollette.com/img/destination-page/europe/switzerland/switzerland-mustsee-v2.jpg?h=720&w=1280&la=en-NZ');
         height: 100vh;
-        background-size: 100% auto;
         background-repeat: no-repeat;
-        transition: background-image 2s;
-        background: fixed;
+        background-size: cover;
+        background-attachment: fixed; 
+
     }
     
     .horizontal {
@@ -141,5 +141,6 @@
         justify-items: center;
         align-items: center;
     }
+
 </style>
 

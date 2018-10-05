@@ -18,7 +18,7 @@
 </script>
 
 <style>
-    @keyframes backgroundAnimation {
+    /* @keyframes backgroundAnimation {
         0% {
             background-image: url('https://s-media-cache-ak0.pinimg.com/originals/3d/4f/e6/3d4fe6bccddfd3b049ac90242bdce148.jpg');
         }
@@ -82,11 +82,13 @@
         100% {
             background-image: url('https://s-media-cache-ak0.pinimg.com/originals/3d/4f/e6/3d4fe6bccddfd3b049ac90242bdce148.jpg');
         }
-    }
+    } */
     
-    body {
+      body {
+        background-image: url('https://i.gocollette.com/img/destination-page/europe/switzerland/switzerland-mustsee-v2.jpg?h=720&w=1280&la=en-NZ');
         height: 100vh;
-        animation: backgroundAnimation 110s infinite;
-        animation-timing-function: linear;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed; 
     }
 </style>
