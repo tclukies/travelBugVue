@@ -1,3 +1,5 @@
+# Travel Bug!
+
 ## Contributors
 
 Natalie Todd
@@ -5,7 +7,7 @@ Tom Clukies
 Ryan McCrory
 RJ Kirkhope
 
-## Travel Bug Description
+## Description
 
 Travel bug allows a user to login and create a profile with desired destinations all over the world. Quickly add destinations you would like to visit and check off destinations as you complete your goals.
 
@@ -20,6 +22,9 @@ Travel Bug will allow users to add and cross off locations and timelines to a tr
 ## Tech used
 
 Vue.js, Bootstrap-Vue, Express, Knex, CORS, postgreSQL
+
+## Demo
+![](./travelBugDemoGif.gif)
 
 ## Instructions
 
